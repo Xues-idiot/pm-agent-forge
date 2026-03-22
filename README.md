@@ -100,6 +100,7 @@ description: Use when writing or reviewing PRD documents
 | ab-testing | A/B测试 |
 | pricing-strategy | 定价策略 |
 | user-story-mapping | 用户故事地图 |
+| gtm-strategy | 市场进入 |
 
 ### 4. Private Ops Skills（私域运营技能）
 
@@ -169,6 +170,7 @@ description: Use when writing or reviewing PRD documents
 | employee-training | 员工培训 |
 | job-description-writing | JD 撰写 |
 | employee-onboarding | 入职管理 |
+| compensation-design | 薪酬设计 |
 
 ### 10. IoT Skills（物联网技能）
 
@@ -179,6 +181,7 @@ description: Use when writing or reviewing PRD documents
 | data-collection | 数据采集 |
 | automation-rules | 自动化规则 |
 | predictive-maintenance | 预测性维护 |
+| energy-management | 能源管理 |
 
 ### 11. Medical Skills（医疗技能）
 
@@ -189,6 +192,7 @@ description: Use when writing or reviewing PRD documents
 | health-management | 健康管理 |
 | medical-literature-search | 文献检索 |
 | telemedicine | 远程医疗 |
+| pharmacy-management | 药房管理 |
 
 ### 12. Legal Skills（法律技能）
 
