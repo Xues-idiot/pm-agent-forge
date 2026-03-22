@@ -241,6 +241,7 @@ git push
 | 18 | IoT设备选型+Medical医保+Education在线+Legal合同管理 | ✅ 完成 | +device-selection,insurance-settlement,online-course,contract-management |
 | 19 | 私域引流+客服质检+IoT安全+Finance资金管理 | ✅ 完成 | +traffic-acquisition,intelligent-qa,security,treasury-management |
 | 20 | PM数据分析+私域转化+DataPipeline+HR招聘 | ✅ 完成 | +product-analytics,conversion-optimization-v2,data-pipeline,recruitment |
+| 21 | PM优先级反馈+私域活动变现+客服投诉主动 | ✅ 完成 | +requirement-prioritization,feedback-management,community-event,monetization,complaint-handling,proactive-service |
 ```
 
 ---

@@ -103,6 +103,8 @@ description: Use when writing or reviewing PRD documents
 | gtm-strategy | 市场进入 |
 | user-growth | 用户增长 |
 | product-analytics | 产品分析 |
+| requirement-prioritization | 需求优先级 |
+| feedback-management | 用户反馈管理 |
 
 ### 4. Private Ops Skills（私域运营技能）
 
@@ -119,6 +121,8 @@ description: Use when writing or reviewing PRD documents
 | campaign-review | 活动复盘 |
 | traffic-acquisition | 私域引流 |
 | conversion-optimization | 转化优化(v2) |
+| community-event | 社群活动 |
+| monetization | 私域变现 |
 
 ### 5. Customer Service Skills（客服技能）
 
@@ -133,6 +137,8 @@ description: Use when writing or reviewing PRD documents
 | chatbot-script | 对话脚本 |
 | quality-assurance | 服务质量 |
 | intelligent-qa | 智能质检 |
+| complaint-handling | 投诉处理 |
+| proactive-service | 主动服务 |
 
 ### 6. Data Analytics Skills（数据分析技能）
 
