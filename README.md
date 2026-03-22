@@ -97,8 +97,24 @@ description: Use when writing or reviewing PRD documents
 | roadmap-writing | 路线图制定 |
 | feature-spec | 功能规格 |
 | metrics-design | 指标体系设计 |
+| ab-testing | A/B测试 |
+| pricing-strategy | 定价策略 |
+| user-story-mapping | 用户故事地图 |
 
-### 4. Customer Service Skills（客服技能）
+### 4. Private Ops Skills（私域运营技能）
+
+| Skill | 用途 |
+|-------|------|
+| campaign-design | 活动策划 |
+| rfm-analysis | RFM分析 |
+| content-strategy | 内容策略 |
+| 转化优化 | 转化优化 |
+| community-operation | 社群运营 |
+| membership-system | 会员体系 |
+| fission-campaign | 裂变活动 |
+| kol-management | KOL管理 |
+
+### 5. Customer Service Skills（客服技能）
 
 | Skill | 用途 |
 |-------|------|
@@ -111,7 +127,7 @@ description: Use when writing or reviewing PRD documents
 | chatbot-script | 对话脚本 |
 | quality-assurance | 服务质量 |
 
-### 5. Data Analytics Skills（数据分析技能）
+### 6. Data Analytics Skills（数据分析技能）
 
 | Skill | 用途 |
 |-------|------|
@@ -120,7 +136,7 @@ description: Use when writing or reviewing PRD documents
 | report-generation | 报告生成 |
 | metric-calculation | 指标计算 |
 
-### 6. Education Skills（教育技能）
+### 7. Education Skills（教育技能）
 
 | Skill | 用途 |
 |-------|------|
@@ -129,7 +145,7 @@ description: Use when writing or reviewing PRD documents
 | learning-progress-tracking | 进度追踪 |
 | content-creation | 内容创作 |
 
-### 7. Finance Skills（金融技能）
+### 8. Finance Skills（金融技能）
 
 | Skill | 用途 |
 |-------|------|
@@ -138,7 +154,7 @@ description: Use when writing or reviewing PRD documents
 | financial-report-analysis | 财务报告分析 |
 | compliance-check | 合规检查 |
 
-### 8. HR Skills（人力资源技能）
+### 9. HR Skills（人力资源技能）
 
 | Skill | 用途 |
 |-------|------|
@@ -147,7 +163,7 @@ description: Use when writing or reviewing PRD documents
 | employee-training | 员工培训 |
 | job-description-writing | JD 撰写 |
 
-### 9. IoT Skills（物联网技能）
+### 10. IoT Skills（物联网技能）
 
 | Skill | 用途 |
 |-------|------|
@@ -156,7 +172,7 @@ description: Use when writing or reviewing PRD documents
 | data-collection | 数据采集 |
 | automation-rules | 自动化规则 |
 
-### 10. Medical Skills（医疗技能）
+### 11. Medical Skills（医疗技能）
 
 | Skill | 用途 |
 |-------|------|
@@ -165,7 +181,7 @@ description: Use when writing or reviewing PRD documents
 | health-management | 健康管理 |
 | medical-literature-search | 文献检索 |
 
-### 11. Legal Skills（法律技能）
+### 12. Legal Skills（法律技能）
 
 | Skill | 用途 |
 |-------|------|

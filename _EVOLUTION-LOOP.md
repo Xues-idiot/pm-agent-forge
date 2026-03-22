@@ -230,8 +230,9 @@ git push
 | 7 | IoT | ✅ 完成 | 参考了 XXX |
 | 8 | 医疗 | ✅ 完成 | 参考了 XXX |
 | 9 | 法律 | ✅ 完成 | 参考了 XXX |
-| 10 | PM Skills | ✅ 完成 | 扩展了3个新Skills |
-| 11 | Customer Service | ✅ 完成 | 扩展了3个新Skills |
+| 10 | PM Skills | ✅ 完成 | +ab-testing, pricing, story-mapping |
+| 11 | Customer Service | ✅ 完成 | +escalation, chatbot, quality |
+| 12 | PM & Ops | ✅ 完成 | +社群,会员,裂变,KOL |
 ```
 
 ---
