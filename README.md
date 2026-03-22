@@ -86,6 +86,18 @@ description: Use when writing or reviewing PRD documents
 | medical-agent | 医疗辅助 | Sonnet |
 | legal-agent | 法律服务 | Sonnet |
 
+### 3. PM Skills（产品经理技能）
+
+| Skill | 用途 |
+|-------|------|
+| prd-writing | PRD 写作 |
+| user-research | 用户研究 |
+| competitive-analysis | 竞品分析 |
+| market-insight | 市场洞察 |
+| roadmap-writing | 路线图制定 |
+| feature-spec | 功能规格 |
+| metrics-design | 指标体系设计 |
+
 ### 4. Customer Service Skills（客服技能）
 
 | Skill | 用途 |
@@ -159,7 +171,7 @@ description: Use when writing or reviewing PRD documents
 | compliance-check | 合规检查 |
 | risk-assessment | 法律风险评估 |
 
-### 3. Workflows 系统
+### 12. Workflows 系统
 
 ```
 brainstorming → planning → executing → reviewing → evolving
