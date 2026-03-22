@@ -107,6 +107,9 @@ description: Use when writing or reviewing PRD documents
 | sentiment-analysis | 情感检测 |
 | response-drafting | 回复起草 |
 | knowledge-base-search | 知识库搜索 |
+| escalation-management | 升级处理 |
+| chatbot-script | 对话脚本 |
+| quality-assurance | 服务质量 |
 
 ### 5. Data Analytics Skills（数据分析技能）
 
