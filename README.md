@@ -135,6 +135,8 @@ description: Use when writing or reviewing PRD documents
 | visualization-creation | 可视化创建 |
 | report-generation | 报告生成 |
 | metric-calculation | 指标计算 |
+| data-quality | 数据质量 |
+| dashboard-design | 看板设计 |
 
 ### 7. Education Skills（教育技能）
 
@@ -153,6 +155,7 @@ description: Use when writing or reviewing PRD documents
 | investment-analysis | 投资分析 |
 | financial-report-analysis | 财务报告分析 |
 | compliance-check | 合规检查 |
+| budget-management | 预算管理 |
 
 ### 9. HR Skills（人力资源技能）
 
@@ -162,6 +165,7 @@ description: Use when writing or reviewing PRD documents
 | performance-evaluation | 绩效评估 |
 | employee-training | 员工培训 |
 | job-description-writing | JD 撰写 |
+| employee-onboarding | 入职管理 |
 
 ### 10. IoT Skills（物联网技能）
 

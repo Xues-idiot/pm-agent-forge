@@ -233,6 +233,7 @@ git push
 | 10 | PM Skills | ✅ 完成 | +ab-testing, pricing, story-mapping |
 | 11 | Customer Service | ✅ 完成 | +escalation, chatbot, quality |
 | 12 | PM & Ops | ✅ 完成 | +社群,会员,裂变,KOL |
+| 13 | Data+Finance+HR | ✅ 完成 | +data-quality,dashboard,budget,onboarding |
 ```
 
 ---
