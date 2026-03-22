@@ -242,6 +242,7 @@ git push
 | 19 | 私域引流+客服质检+IoT安全+Finance资金管理 | ✅ 完成 | +traffic-acquisition,intelligent-qa,security,treasury-management |
 | 20 | PM数据分析+私域转化+DataPipeline+HR招聘 | ✅ 完成 | +product-analytics,conversion-optimization-v2,data-pipeline,recruitment |
 | 21 | PM优先级反馈+私域活动变现+客服投诉主动 | ✅ 完成 | +requirement-prioritization,feedback-management,community-event,monetization,complaint-handling,proactive-service |
+| 22 | PM画像埋点+HR人才离职+Data用户画像 | ✅ 完成 | +user-portrait,tracking-design,talent-assessment,offboarding,user-portrait |
 ```
 
 ---
