@@ -116,6 +116,7 @@ description: Use when writing or reviewing PRD documents
 | fission-campaign | 裂变活动 |
 | kol-management | KOL管理 |
 | campaign-review | 活动复盘 |
+| traffic-acquisition | 私域引流 |
 
 ### 5. Customer Service Skills（客服技能）
 
@@ -129,6 +130,7 @@ description: Use when writing or reviewing PRD documents
 | escalation-management | 升级处理 |
 | chatbot-script | 对话脚本 |
 | quality-assurance | 服务质量 |
+| intelligent-qa | 智能质检 |
 
 ### 6. Data Analytics Skills（数据分析技能）
 
@@ -165,6 +167,7 @@ description: Use when writing or reviewing PRD documents
 | budget-management | 预算管理 |
 | tax-planning | 税务筹划 |
 | cost-management | 成本管理 |
+| treasury-management | 资金管理 |
 
 ### 9. HR Skills（人力资源技能）
 
@@ -189,6 +192,7 @@ description: Use when writing or reviewing PRD documents
 | predictive-maintenance | 预测性维护 |
 | energy-management | 能源管理 |
 | device-selection | 设备选型 |
+| security | IoT安全 |
 
 ### 11. Medical Skills（医疗技能）
 
