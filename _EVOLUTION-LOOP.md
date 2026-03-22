@@ -235,6 +235,7 @@ git push
 | 12 | PM & Ops | ✅ 完成 | +社群,会员,裂变,KOL |
 | 13 | Data+Finance+HR | ✅ 完成 | +data-quality,dashboard,budget,onboarding |
 | 14 | Education+IoT+Medical | ✅ 完成 | +student-retention,predictive,telemedicine |
+| 15 | Legal+Finance+Education | ✅ 完成 | +ip-management,employment-dispute,tax-planning,certification |
 ```
 
 ---

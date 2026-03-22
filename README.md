@@ -147,6 +147,7 @@ description: Use when writing or reviewing PRD documents
 | learning-progress-tracking | 进度追踪 |
 | content-creation | 内容创作 |
 | student-retention | 学员留存 |
+| certification-management | 证书管理 |
 
 ### 8. Finance Skills（金融技能）
 
@@ -157,6 +158,7 @@ description: Use when writing or reviewing PRD documents
 | financial-report-analysis | 财务报告分析 |
 | compliance-check | 合规检查 |
 | budget-management | 预算管理 |
+| tax-planning | 税务筹划 |
 
 ### 9. HR Skills（人力资源技能）
 
@@ -196,6 +198,8 @@ description: Use when writing or reviewing PRD documents
 | legal-research | 法律研究 |
 | compliance-check | 合规检查 |
 | risk-assessment | 法律风险评估 |
+| ip-management | 知识产权管理 |
+| employment-dispute | 劳动争议 |
 
 ### 12. Workflows 系统
 
