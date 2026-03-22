@@ -101,6 +101,7 @@ description: Use when writing or reviewing PRD documents
 | pricing-strategy | 定价策略 |
 | user-story-mapping | 用户故事地图 |
 | gtm-strategy | 市场进入 |
+| user-growth | 用户增长 |
 
 ### 4. Private Ops Skills（私域运营技能）
 
@@ -114,6 +115,7 @@ description: Use when writing or reviewing PRD documents
 | membership-system | 会员体系 |
 | fission-campaign | 裂变活动 |
 | kol-management | KOL管理 |
+| campaign-review | 活动复盘 |
 
 ### 5. Customer Service Skills（客服技能）
 
@@ -138,6 +140,7 @@ description: Use when writing or reviewing PRD documents
 | metric-calculation | 指标计算 |
 | data-quality | 数据质量 |
 | dashboard-design | 看板设计 |
+| data-governance | 数据治理 |
 
 ### 7. Education Skills（教育技能）
 
@@ -160,6 +163,7 @@ description: Use when writing or reviewing PRD documents
 | compliance-check | 合规检查 |
 | budget-management | 预算管理 |
 | tax-planning | 税务筹划 |
+| cost-management | 成本管理 |
 
 ### 9. HR Skills（人力资源技能）
 
@@ -171,6 +175,7 @@ description: Use when writing or reviewing PRD documents
 | job-description-writing | JD 撰写 |
 | employee-onboarding | 入职管理 |
 | compensation-design | 薪酬设计 |
+| organizational-design | 组织设计 |
 
 ### 10. IoT Skills（物联网技能）
 

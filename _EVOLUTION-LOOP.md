@@ -237,6 +237,7 @@ git push
 | 14 | Education+IoT+Medical | ✅ 完成 | +student-retention,predictive,telemedicine |
 | 15 | Legal+Finance+Education | ✅ 完成 | +ip-management,employment-dispute,tax-planning,certification |
 | 16 | PM+HR+Medical+IoT | ✅ 完成 | +gtm,compensation,pharmacy,energy |
+| 17 | PM增长+私域复盘+Data治理+Finance成本+HR组织 | ✅ 完成 | +user-growth,campaign-review,data-governance,cost-management,org-design |
 ```
 
 ---
