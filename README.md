@@ -146,6 +146,7 @@ description: Use when writing or reviewing PRD documents
 | learning-assessment | 学习评估 |
 | learning-progress-tracking | 进度追踪 |
 | content-creation | 内容创作 |
+| student-retention | 学员留存 |
 
 ### 8. Finance Skills（金融技能）
 
@@ -175,6 +176,7 @@ description: Use when writing or reviewing PRD documents
 | monitoring-alerting | 监控告警 |
 | data-collection | 数据采集 |
 | automation-rules | 自动化规则 |
+| predictive-maintenance | 预测性维护 |
 
 ### 11. Medical Skills（医疗技能）
 
@@ -184,6 +186,7 @@ description: Use when writing or reviewing PRD documents
 | diagnostic-assistance | 诊断辅助 |
 | health-management | 健康管理 |
 | medical-literature-search | 文献检索 |
+| telemedicine | 远程医疗 |
 
 ### 12. Legal Skills（法律技能）
 
