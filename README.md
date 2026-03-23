@@ -133,6 +133,7 @@ description: Use when writing or reviewing PRD documents
 | pricing-optimization | 定价优化(新增) |
 | data-driven-decision | 数据驱动决策(新增) |
 | okr-management | OKR管理(新增) |
+| product-launch | 产品发布(新增) |
 
 ### 4. Private Ops Skills（私域运营技能）
 
@@ -153,6 +154,9 @@ description: Use when writing or reviewing PRD documents
 | user-stratification | 用户分层(新增) |
 | ab-testing | A/B测试(新增) |
 | timing-optimization | 时机优化(新增) |
+| seckill-operation | 秒杀运营(新增) |
+| group-buy-operation | 拼团运营(新增) |
+| moments-marketing | 关键时刻营销(新增) |
 | member-lifecycle | 会员生命周期(新增) |
 | koc-management | KOC管理(新增) |
 | content-marketing | 内容营销(新增) |
@@ -190,6 +194,7 @@ description: Use when writing or reviewing PRD documents
 | data-pipeline | 数据流水线 |
 | user-portrait | 用户画像 |
 | data-visualization | 数据可视化(新增) |
+| ab-testing | A/B测试(新增) |
 
 ### 7. Education Skills（教育技能）
 
