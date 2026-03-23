@@ -115,6 +115,9 @@ description: Use when writing or reviewing PRD documents
 | microservices | 微服务架构 |
 | devops | DevOps实践 |
 | testing | 测试策略 |
+| cloud-architecture | 云架构设计 |
+| data-engineering | 数据工程 |
+| observability | 可观测性 |
 
 ### 4. PM Skills（产品经理技能）
 
