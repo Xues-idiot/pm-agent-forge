@@ -362,7 +362,15 @@ description: Use when writing or reviewing PRD documents
 | contract-management | 合同管理 |
 | compliance-management | 合规管理(新增) |
 
-### 13. Workflows 系统
+### 16. Common Skills（通用技能）
+
+| Skill | 用途 |
+|-------|------|
+| skills-writing | Skills写作 |
+| presentation | 演示技巧 |
+| documentation | 文档写作 |
+
+### 17. Workflows 系统
 
 ```
 brainstorming → planning → executing → reviewing → evolving
