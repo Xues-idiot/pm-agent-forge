@@ -167,8 +167,11 @@ description: Use when writing or reviewing PRD documents
 | product-experimentation | 产品实验(新增) |
 | product-performance | 产品绩效(新增) |
 | product-ops | 产品运营(新增) |
-| market-analysis | 市场分析(新增) |
-| business-model | 商业模式(新增) |
+| market-analysis | 市场分析 |
+| business-model | 商业模式 |
+| product-roadmap | 产品路线图 |
+| product-strategy | 产品战略 |
+| product-research | 产品研究 |
 
 ### 4. Private Ops Skills（私域运营技能）
 
