@@ -203,6 +203,8 @@ description: Use when writing or reviewing PRD documents
 | growth-operations | 增长运营(新增) |
 | brand-operations | 品牌运营(新增) |
 | user-operations | 用户运营(新增) |
+| data-operations | 数据运营(新增) |
+| product-operations | 产品运营(新增) |
 
 ### 7. Customer Service Skills（客服技能）
 
@@ -220,8 +222,10 @@ description: Use when writing or reviewing PRD documents
 | complaint-handling | 投诉处理 |
 | proactive-service | 主动服务 |
 | service-flow | 服务流程(新增) |
+| customer-insights | 客户洞察(新增) |
+| knowledge-management | 知识管理(新增) |
 
-### 6. Data Analytics Skills（数据分析技能）
+### 8. Data Analytics Skills（数据分析技能）
 
 | Skill | 用途 |
 |-------|------|
@@ -236,8 +240,10 @@ description: Use when writing or reviewing PRD documents
 | user-portrait | 用户画像 |
 | data-visualization | 数据可视化(新增) |
 | ab-testing | A/B测试(新增) |
+| funnel-analysis | 漏斗分析(新增) |
+| cohort-analysis | 队列分析(新增) |
 
-### 8. Education Skills（教育技能）
+### 10. Education Skills（教育技能）
 
 | Skill | 用途 |
 |-------|------|
@@ -276,8 +282,11 @@ description: Use when writing or reviewing PRD documents
 | recruitment | 招聘管理 |
 | talent-assessment | 人才评估 |
 | offboarding | 离职管理 |
+| recruitment-operations | 招聘运营(新增) |
 
-### 11. IoT Skills（物联网技能）
+### 11. HR Skills（人力资源技能）
+
+### 13. IoT Skills（物联网技能）
 
 | Skill | 用途 |
 |-------|------|
@@ -290,7 +299,7 @@ description: Use when writing or reviewing PRD documents
 | device-selection | 设备选型 |
 | security | IoT安全 |
 
-### 12. Medical Skills（医疗技能）
+### 14. Medical Skills（医疗技能）
 
 | Skill | 用途 |
 |-------|------|
@@ -302,7 +311,7 @@ description: Use when writing or reviewing PRD documents
 | pharmacy-management | 药房管理 |
 | insurance-settlement | 医保结算 |
 
-### 13. Legal Skills（法律技能）
+### 15. Legal Skills（法律技能）
 
 | Skill | 用途 |
 |-------|------|
@@ -337,7 +346,7 @@ brainstorming → planning → executing → reviewing → evolving
 
 ### 来自 Everything Claude Code 的借鉴
 - 28 专业 Subagent 系统
-- 180 Skills 覆盖领域
+- 187 Skills 覆盖领域
 - Continuous Learning 持续学习机制
 
 ## 使用方法
