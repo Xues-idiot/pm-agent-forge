@@ -254,6 +254,16 @@ git push
 | 31 | PM数据可视化+小程序运营+私域运营 | ✅ 完成 | +data-visualization,mini-program-operation,private-domain-operations |
 | 32 | PM产品实验+客户关系管理 | ✅ 完成 | +product-experimentation,customer-relationship |
 | 33 | 工程Skills扩展(从三个项目学习) | ✅ 完成 | +article-writing,backend-patterns,frontend-patterns,deep-research,documentation-lookup,e2e-testing,verification-loop,content-engine,market-research |
+| 34 | 审计重复Skills | ✅ 完成 | 审计duplicate skills |
+| 35 | PM用户旅程+NPS管理 | ✅ 完成 | +user-journey,nps-management |
+| 36 | 私域关键时刻营销 | ✅ 完成 | +moments-marketing |
+| 37 | 客服服务质量+智能路由 | ✅ 完成 | +service-quality,intelligent-routing |
+| 38 | 数据预测+IoT系统集成 | ✅ 完成 | +predictive-analytics,system-integration |
+| 39 | 投资管理+员工留存 | ✅ 完成 | +investment-management,employee-retention |
+| 40 | 在线学习+患者体验 | ✅ 完成 | +online-learning,patient-experience |
+| 41 | Finance法律扩展 | ✅ 完成 | +tax-planning,treasury-management,contract-management |
+| 42 | IoT医学扩展 | ✅ 完成 | +energy-management,device-selection,insurance-settlement,pharmacy-management |
+| 43 | PM增长+法律IP扩展 | ✅ 完成 | +gtm-strategy,user-growth,ip-management,employment-dispute,certification-management |
 ```
 
 ---
