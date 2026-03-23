@@ -269,6 +269,7 @@ git push
 | 46 | Finance+Education+IoT+Medical+Legal扩展 | ✅ 完成 | +financial-analysis,learning-optimization,edge-computing,health-data-analysis,compliance-management,mini-program-ecology |
 | 47 | 工程Skills扩展 | ✅ 完成 | +database-design,performance-optimization,microservices,devops,testing |
 | 48 | 工程Skills扩展v2 | ✅ 完成 | +cloud-architecture,data-engineering,observability |
+| 49 | 运营Skills扩展 | ✅ 完成 | +campaign-operation,content-operation,user-operation |
 ```
 
 ---

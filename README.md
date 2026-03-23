@@ -206,14 +206,17 @@ description: Use when writing or reviewing PRD documents
 
 | Skill | 用途 |
 |-------|------|
-| content-operations | 内容运营(新增) |
-| channel-operations | 渠道运营(新增) |
-| seo-operations | SEO运营(新增) |
-| growth-operations | 增长运营(新增) |
-| brand-operations | 品牌运营(新增) |
-| user-operations | 用户运营(新增) |
-| data-operations | 数据运营(新增) |
-| product-operations | 产品运营(新增) |
+| content-operations | 内容运营 |
+| channel-operations | 渠道运营 |
+| seo-operations | SEO运营 |
+| growth-operations | 增长运营 |
+| brand-operations | 品牌运营 |
+| user-operations | 用户运营 |
+| data-operations | 数据运营 |
+| product-operations | 产品运营 |
+| campaign-operation | 营销活动运营 |
+| content-operation | 内容运营v2 |
+| user-operation | 用户运营v2 |
 
 ### 7. Customer Service Skills（客服技能）
 
