@@ -314,6 +314,9 @@ description: Use when writing or reviewing PRD documents
 | talent-assessment | 人才评估 |
 | offboarding | 离职管理 |
 | recruitment-operations | 招聘运营(新增) |
+| talent-management | 人才管理 |
+| performance-management | 绩效管理 |
+| team-building | 团队建设 |
 
 ### 11. HR Skills（人力资源技能）
 
