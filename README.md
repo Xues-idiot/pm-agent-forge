@@ -217,6 +217,9 @@ description: Use when writing or reviewing PRD documents
 | campaign-operation | 营销活动运营 |
 | content-operation | 内容运营v2 |
 | user-operation | 用户运营v2 |
+| growth-hacking | 增长黑客 |
+| community-operation | 社群运营 |
+| channel-operation | 渠道运营 |
 
 ### 7. Customer Service Skills（客服技能）
 

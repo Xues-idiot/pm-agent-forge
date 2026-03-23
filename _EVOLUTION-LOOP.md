@@ -270,6 +270,7 @@ git push
 | 47 | 工程Skills扩展 | ✅ 完成 | +database-design,performance-optimization,microservices,devops,testing |
 | 48 | 工程Skills扩展v2 | ✅ 完成 | +cloud-architecture,data-engineering,observability |
 | 49 | 运营Skills扩展 | ✅ 完成 | +campaign-operation,content-operation,user-operation |
+| 50 | 专业化运营Skills | ✅ 完成 | +growth-hacking,community-operation,channel-operation |
 ```
 
 ---
