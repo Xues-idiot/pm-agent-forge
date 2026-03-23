@@ -86,6 +86,7 @@ description: Use when writing or reviewing PRD documents
 | iot-agent | 物联网 | Sonnet |
 | medical-agent | 医疗辅助 | Sonnet |
 | legal-agent | 法律服务 | Sonnet |
+| engineering-agent | 工程开发 | Opus |
 
 ### 3. Engineering Skills（工程开发技能）
 
