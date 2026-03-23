@@ -115,7 +115,6 @@ description: Use when writing or reviewing PRD documents
 | campaign-design | 活动策划 |
 | rfm-analysis | RFM分析 |
 | content-strategy | 内容策略 |
-| 转化优化 | 转化优化 |
 | community-operation | 社群运营 |
 | membership-system | 会员体系 |
 | fission-campaign | 裂变活动 |
