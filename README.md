@@ -245,6 +245,8 @@ description: Use when writing or reviewing PRD documents
 | service-flow | 服务流程(新增) |
 | customer-insights | 客户洞察(新增) |
 | knowledge-management | 知识管理(新增) |
+| customer-feedback | 客户反馈 |
+| customer-journey | 客户旅程 |
 
 ### 8. Data Analytics Skills（数据分析技能）
 
@@ -263,8 +265,9 @@ description: Use when writing or reviewing PRD documents
 | ab-testing | A/B测试(新增) |
 | funnel-analysis | 漏斗分析(新增) |
 | cohort-analysis | 队列分析(新增) |
+| data-mining | 数据挖掘 |
 
-### 10. Education Skills（教育技能）
+### 9. Education Skills（教育技能）
 
 | Skill | 用途 |
 |-------|------|

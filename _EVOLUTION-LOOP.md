@@ -273,6 +273,7 @@ git push
 | 50 | 专业化运营Skills | ✅ 完成 | +growth-hacking,community-operation,channel-operation |
 | 51 | 工程Skills扩展v3 | ✅ 完成 | +security,message-queue,configuration |
 | 52 | PM Skills扩展 | ✅ 完成 | +product-roadmap,product-strategy,product-research |
+| 53 | 数据+客服Skills扩展 | ✅ 完成 | +data-mining,customer-feedback,customer-journey |
 ```
 
 ---
