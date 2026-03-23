@@ -118,6 +118,9 @@ description: Use when writing or reviewing PRD documents
 | cloud-architecture | 云架构设计 |
 | data-engineering | 数据工程 |
 | observability | 可观测性 |
+| security | 安全工程 |
+| message-queue | 消息队列 |
+| configuration | 配置管理 |
 
 ### 4. PM Skills（产品经理技能）
 
