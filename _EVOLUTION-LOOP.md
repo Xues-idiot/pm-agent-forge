@@ -243,8 +243,9 @@ git push
 | 20 | PM数据分析+私域转化+DataPipeline+HR招聘 | ✅ 完成 | +product-analytics,conversion-optimization-v2,data-pipeline,recruitment |
 | 21 | PM优先级反馈+私域活动变现+客服投诉主动 | ✅ 完成 | +requirement-prioritization,feedback-management,community-event,monetization,complaint-handling,proactive-service |
 | 22 | PM画像埋点+HR人才离职+Data用户画像 | ✅ 完成 | +user-portrait,tracking-design,talent-assessment,offboarding,user-portrait |
+| 23 | 工程Skills补全+从Pi/Nu学习 | ✅ 完成 | +coding-standards,debugging,agent-workflow,ai-health-check,code-review + pm-frameworks,four-risks,four-fits,growth-loops,pmf-survey + user-stratification,ab-testing,timing-optimization |
 ```
 
 ---
 
-*Sigma 自主扩展循环 | 2026-03-22*
+*Sigma 自主扩展循环 | 2026-03-23*
