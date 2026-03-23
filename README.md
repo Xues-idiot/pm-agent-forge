@@ -292,6 +292,8 @@ description: Use when writing or reviewing PRD documents
 | cost-management | 成本管理 |
 | treasury-management | 资金管理 |
 | financial-analysis | 财务分析(新增) |
+| financial-planning | 财务规划 |
+| cost-control | 成本控制 |
 
 ### 10. Education Skills（教育技能）
 

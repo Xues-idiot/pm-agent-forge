@@ -275,6 +275,7 @@ git push
 | 52 | PM Skills扩展 | ✅ 完成 | +product-roadmap,product-strategy,product-research |
 | 53 | 数据+客服Skills扩展 | ✅ 完成 | +data-mining,customer-feedback,customer-journey |
 | 54 | HR Skills扩展 | ✅ 完成 | +talent-management,performance-management,team-building |
+| 55 | Finance Skills扩展 | ✅ 完成 | +financial-planning,cost-control |
 ```
 
 ---
