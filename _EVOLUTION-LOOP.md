@@ -267,6 +267,7 @@ git push
 | 44 | PM+运营扩展 | ✅ 完成 | +product-ops,market-analysis,business-model,content-operations,channel-operations,seo-operations,growth-operations,brand-operations,user-operations |
 | 45 | 数据+运营扩展 | ✅ 完成 | +data-operations,product-operations,funnel-analysis,cohort-analysis,customer-insights,knowledge-management,recruitment-operations |
 | 46 | Finance+Education+IoT+Medical+Legal扩展 | ✅ 完成 | +financial-analysis,learning-optimization,edge-computing,health-data-analysis,compliance-management,mini-program-ecology |
+| 47 | 工程Skills扩展 | ✅ 完成 | +database-design,performance-optimization,microservices,devops,testing |
 ```
 
 ---

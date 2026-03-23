@@ -110,6 +110,11 @@ description: Use when writing or reviewing PRD documents
 | verification-loop | 验证循环 |
 | content-engine | 内容引擎 |
 | market-research | 市场研究 |
+| database-design | 数据库设计 |
+| performance-optimization | 性能优化 |
+| microservices | 微服务架构 |
+| devops | DevOps实践 |
+| testing | 测试策略 |
 
 ### 4. PM Skills（产品经理技能）
 
