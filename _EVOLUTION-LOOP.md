@@ -264,6 +264,7 @@ git push
 | 41 | Finance法律扩展 | ✅ 完成 | +tax-planning,treasury-management,contract-management |
 | 42 | IoT医学扩展 | ✅ 完成 | +energy-management,device-selection,insurance-settlement,pharmacy-management |
 | 43 | PM增长+法律IP扩展 | ✅ 完成 | +gtm-strategy,user-growth,ip-management,employment-dispute,certification-management |
+| 44 | PM+运营扩展 | ✅ 完成 | +product-ops,market-analysis,business-model,content-operations,channel-operations,seo-operations,growth-operations,brand-operations,user-operations |
 ```
 
 ---

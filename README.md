@@ -155,6 +155,9 @@ description: Use when writing or reviewing PRD documents
 | data-visualization | 数据可视化(新增) |
 | product-experimentation | 产品实验(新增) |
 | product-performance | 产品绩效(新增) |
+| product-ops | 产品运营(新增) |
+| market-analysis | 市场分析(新增) |
+| business-model | 商业模式(新增) |
 
 ### 4. Private Ops Skills（私域运营技能）
 
@@ -190,7 +193,18 @@ description: Use when writing or reviewing PRD documents
 | private-domain-operations | 私域运营(新增) |
 | customer-relationship | 客户关系管理(新增) |
 
-### 5. Customer Service Skills（客服技能）
+### 5. Operations Skills（运营技能）
+
+| Skill | 用途 |
+|-------|------|
+| content-operations | 内容运营(新增) |
+| channel-operations | 渠道运营(新增) |
+| seo-operations | SEO运营(新增) |
+| growth-operations | 增长运营(新增) |
+| brand-operations | 品牌运营(新增) |
+| user-operations | 用户运营(新增) |
+
+### 7. Customer Service Skills（客服技能）
 
 | Skill | 用途 |
 |-------|------|
@@ -223,7 +237,7 @@ description: Use when writing or reviewing PRD documents
 | data-visualization | 数据可视化(新增) |
 | ab-testing | A/B测试(新增) |
 
-### 7. Education Skills（教育技能）
+### 8. Education Skills（教育技能）
 
 | Skill | 用途 |
 |-------|------|
@@ -235,7 +249,7 @@ description: Use when writing or reviewing PRD documents
 | certification-management | 证书管理 |
 | online-course | 在线课程 |
 
-### 8. Finance Skills（金融技能）
+### 9. Finance Skills（金融技能）
 
 | Skill | 用途 |
 |-------|------|
@@ -248,7 +262,7 @@ description: Use when writing or reviewing PRD documents
 | cost-management | 成本管理 |
 | treasury-management | 资金管理 |
 
-### 9. HR Skills（人力资源技能）
+### 10. HR Skills（人力资源技能）
 
 | Skill | 用途 |
 |-------|------|
@@ -263,7 +277,7 @@ description: Use when writing or reviewing PRD documents
 | talent-assessment | 人才评估 |
 | offboarding | 离职管理 |
 
-### 10. IoT Skills（物联网技能）
+### 11. IoT Skills（物联网技能）
 
 | Skill | 用途 |
 |-------|------|
@@ -276,7 +290,7 @@ description: Use when writing or reviewing PRD documents
 | device-selection | 设备选型 |
 | security | IoT安全 |
 
-### 11. Medical Skills（医疗技能）
+### 12. Medical Skills（医疗技能）
 
 | Skill | 用途 |
 |-------|------|
@@ -288,7 +302,7 @@ description: Use when writing or reviewing PRD documents
 | pharmacy-management | 药房管理 |
 | insurance-settlement | 医保结算 |
 
-### 12. Legal Skills（法律技能）
+### 13. Legal Skills（法律技能）
 
 | Skill | 用途 |
 |-------|------|
@@ -323,7 +337,7 @@ brainstorming → planning → executing → reviewing → evolving
 
 ### 来自 Everything Claude Code 的借鉴
 - 28 专业 Subagent 系统
-- 172 Skills 覆盖领域
+- 180 Skills 覆盖领域
 - Continuous Learning 持续学习机制
 
 ## 使用方法
