@@ -253,6 +253,7 @@ git push
 | 30 | PM产品退出+跨部门协作+活动运营 | ✅ 完成 | +product-exit,cross-functional-collaboration,activity-operation |
 | 31 | PM数据可视化+小程序运营+私域运营 | ✅ 完成 | +data-visualization,mini-program-operation,private-domain-operations |
 | 32 | PM产品实验+客户关系管理 | ✅ 完成 | +product-experimentation,customer-relationship |
+| 33 | 工程Skills扩展(从三个项目学习) | ✅ 完成 | +article-writing,backend-patterns,frontend-patterns,deep-research,documentation-lookup,e2e-testing,verification-loop,content-engine,market-research |
 ```
 
 ---

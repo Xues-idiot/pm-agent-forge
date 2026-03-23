@@ -101,6 +101,15 @@ description: Use when writing or reviewing PRD documents
 | architecture-design | 架构设计 |
 | security-design | 安全设计 |
 | test-strategy | 测试策略 |
+| article-writing | 技术文章写作 |
+| backend-patterns | 后端设计模式 |
+| frontend-patterns | 前端设计模式 |
+| deep-research | 深度研究 |
+| documentation-lookup | 文档查询 |
+| e2e-testing | 端到端测试 |
+| verification-loop | 验证循环 |
+| content-engine | 内容引擎 |
+| market-research | 市场研究 |
 
 ### 4. PM Skills（产品经理技能）
 
@@ -314,7 +323,7 @@ brainstorming → planning → executing → reviewing → evolving
 
 ### 来自 Everything Claude Code 的借鉴
 - 28 专业 Subagent 系统
-- 152 Skills 覆盖领域
+- 164 Skills 覆盖领域
 - Continuous Learning 持续学习机制
 
 ## 使用方法
