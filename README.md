@@ -128,6 +128,9 @@ description: Use when writing or reviewing PRD documents
 | four-risks | 四风险评估(新增) |
 | four-fits | 四匹配框架(新增) |
 | growth-loops | 增长飞轮(新增) |
+| project-management | 项目管理(新增) |
+| ux-design | UX设计(新增) |
+| pricing-optimization | 定价优化(新增) |
 
 ### 4. Private Ops Skills（私域运营技能）
 
@@ -148,6 +151,9 @@ description: Use when writing or reviewing PRD documents
 | user-stratification | 用户分层(新增) |
 | ab-testing | A/B测试(新增) |
 | timing-optimization | 时机优化(新增) |
+| member-lifecycle | 会员生命周期(新增) |
+| koc-management | KOC管理(新增) |
+| content-marketing | 内容营销(新增) |
 
 ### 5. Customer Service Skills（客服技能）
 
