@@ -244,6 +244,15 @@ git push
 | 21 | PM优先级反馈+私域活动变现+客服投诉主动 | ✅ 完成 | +requirement-prioritization,feedback-management,community-event,monetization,complaint-handling,proactive-service |
 | 22 | PM画像埋点+HR人才离职+Data用户画像 | ✅ 完成 | +user-portrait,tracking-design,talent-assessment,offboarding,user-portrait |
 | 23 | 工程Skills补全+从Pi/Nu学习 | ✅ 完成 | +coding-standards,debugging,agent-workflow,ai-health-check,code-review + pm-frameworks,four-risks,four-fits,growth-loops,pmf-survey + user-stratification,ab-testing,timing-optimization |
+| 24 | PM竞品情报+私域直播+客户开发+门店运营 | ✅ 完成 | +competitive-intelligence,customer-development,live-stream-operation,store-operation |
+| 25 | PM战略分析+社群守卫运营+Strategy分析+社区运营 | ✅ 完成 | +strategy-analysis,community-guard-operation |
+| 26 | PM产品规划+用户留存+用户生命周期 | ✅ 完成 | +product-planning,user-retention,user-lifecycle |
+| 27 | PM指标设计+私域KOL管理+反馈管理 | ✅ 完成 | (metrics-design already exists) + kol-management (already exists) + feedback-management (already exists) |
+| 28 | PM产品组合+内容营销+定价策略 | ✅ 完成 | +product-portfolio,content-marketing (already exists),pricing-strategy (already exists) |
+| 29 | PM产品生命周期+秒杀运营+拼团运营 | ✅ 完成 | +product-lifecycle,seckill-operation (already exists),group-buy-operation (already exists) |
+| 30 | PM产品退出+跨部门协作+活动运营 | ✅ 完成 | +product-exit,cross-functional-collaboration,activity-operation |
+| 31 | PM数据可视化+小程序运营+私域运营 | ✅ 完成 | +data-visualization,mini-program-operation,private-domain-operations |
+| 32 | PM产品实验+客户关系管理 | ✅ 完成 | +product-experimentation,customer-relationship |
 ```
 
 ---

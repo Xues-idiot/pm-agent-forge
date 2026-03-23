@@ -134,6 +134,18 @@ description: Use when writing or reviewing PRD documents
 | data-driven-decision | 数据驱动决策(新增) |
 | okr-management | OKR管理(新增) |
 | product-launch | 产品发布(新增) |
+| competitive-intelligence | 竞品情报(新增) |
+| customer-development | 客户开发(新增) |
+| strategy-analysis | 战略分析(新增) |
+| product-planning | 产品规划(新增) |
+| user-retention | 用户留存(新增) |
+| product-portfolio | 产品组合(新增) |
+| product-lifecycle | 产品生命周期(新增) |
+| product-exit | 产品退出(新增) |
+| cross-functional-collaboration | 跨部门协作(新增) |
+| data-visualization | 数据可视化(新增) |
+| product-experimentation | 产品实验(新增) |
+| product-performance | 产品绩效(新增) |
 
 ### 4. Private Ops Skills（私域运营技能）
 
@@ -160,8 +172,14 @@ description: Use when writing or reviewing PRD documents
 | member-lifecycle | 会员生命周期(新增) |
 | koc-management | KOC管理(新增) |
 | content-marketing | 内容营销(新增) |
-| seckill-operation | 秒杀运营(新增) |
-| group-buy-operation | 拼团运营(新增) |
+| live-stream-operation | 直播运营(新增) |
+| store-operation | 门店运营(新增) |
+| community-guard-operation | 社群守卫运营(新增) |
+| user-lifecycle | 用户生命周期(新增) |
+| activity-operation | 活动运营(新增) |
+| mini-program-operation | 小程序运营(新增) |
+| private-domain-operations | 私域运营(新增) |
+| customer-relationship | 客户关系管理(新增) |
 
 ### 5. Customer Service Skills（客服技能）
 
@@ -296,7 +314,7 @@ brainstorming → planning → executing → reviewing → evolving
 
 ### 来自 Everything Claude Code 的借鉴
 - 28 专业 Subagent 系统
-- 116 Skills 覆盖领域
+- 152 Skills 覆盖领域
 - Continuous Learning 持续学习机制
 
 ## 使用方法
