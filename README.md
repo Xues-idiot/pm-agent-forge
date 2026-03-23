@@ -192,6 +192,7 @@ description: Use when writing or reviewing PRD documents
 | mini-program-operation | 小程序运营(新增) |
 | private-domain-operations | 私域运营(新增) |
 | customer-relationship | 客户关系管理(新增) |
+| mini-program-ecology | 小程序生态(新增) |
 
 ### 5. Operations Skills（运营技能）
 
@@ -267,8 +268,15 @@ description: Use when writing or reviewing PRD documents
 | tax-planning | 税务筹划 |
 | cost-management | 成本管理 |
 | treasury-management | 资金管理 |
+| financial-analysis | 财务分析(新增) |
 
-### 10. HR Skills（人力资源技能）
+### 10. Education Skills（教育技能）
+
+| Skill | 用途 |
+|-------|------|
+| learning-optimization | 学习优化(新增) |
+
+### 11. HR Skills（人力资源技能）
 
 | Skill | 用途 |
 |-------|------|
@@ -298,6 +306,7 @@ description: Use when writing or reviewing PRD documents
 | energy-management | 能源管理 |
 | device-selection | 设备选型 |
 | security | IoT安全 |
+| edge-computing | 边缘计算(新增) |
 
 ### 14. Medical Skills（医疗技能）
 
@@ -310,6 +319,7 @@ description: Use when writing or reviewing PRD documents
 | telemedicine | 远程医疗 |
 | pharmacy-management | 药房管理 |
 | insurance-settlement | 医保结算 |
+| health-data-analysis | 健康数据分析(新增) |
 
 ### 15. Legal Skills（法律技能）
 
@@ -322,6 +332,7 @@ description: Use when writing or reviewing PRD documents
 | ip-management | 知识产权管理 |
 | employment-dispute | 劳动争议 |
 | contract-management | 合同管理 |
+| compliance-management | 合规管理(新增) |
 
 ### 13. Workflows 系统
 
@@ -346,7 +357,7 @@ brainstorming → planning → executing → reviewing → evolving
 
 ### 来自 Everything Claude Code 的借鉴
 - 28 专业 Subagent 系统
-- 187 Skills 覆盖领域
+- 193 Skills 覆盖领域
 - Continuous Learning 持续学习机制
 
 ## 使用方法
