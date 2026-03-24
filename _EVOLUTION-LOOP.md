@@ -278,6 +278,16 @@ git push
 | 55 | Finance Skills扩展 | ✅ 完成 | +financial-planning,cost-control |
 | 56 | Common Skills扩展 | ✅ 完成 | +presentation,documentation |
 | 57 | Marketing+多领域扩展 | ✅ 完成 | +paid-advertising,social-media-marketing,email-marketing,affiliate-marketing,viral-marketing,influencer-marketing,content-marketing,marketing-analytics,caching-strategy,distributed-system,load-balancing,service-mesh,event-driven-architecture,sensor-integration,firmware-development,telehealth,medical-imaging,contract-automation,legal-document-analysis,adaptive-learning,exam-design,due-diligence,employee-engagement,workforce-planning,customer-retention,anomaly-detection,data-modeling,decision-making,critical-thinking |
+| 58 | 投研Skills基础(1-11) | ✅ 完成 | +stock-data-collection,financial-statement-analysis,industry-research,company-valuation,research-report-generation,a-share-market-analysis,announcement-analysis,industry-chain-analysis,macro-analysis,technical-analysis,peer-comparison,portfolio-construction |
+| 59 | LangGraph多Agent工作流 | ✅ 完成 | +multi-agent-coordination,state-management,conditional-routing,parallel-execution,error-handling,stock-data-api |
+| 60 | 投资策略分析 | ✅ 完成 | +value-investment,growth-investment,event-driven-investment |
+| 61 | 风险管理与量化 | ✅ 完成 | +risk-management,quantitative-screening,backtesting |
+| 62 | 行业专精-消费科技医药 | ✅ 完成 | +industry-consumer,industry-technology,industry-medical |
+| 63 | 行业专精-金融新能源制造 | ✅ 完成 | +industry-financial,industry-new-energy,industry-manufacturing |
+| 64 | 宏观策略与研报 | ✅ 完成 | +strategy-macro,research-report-reading,sentiment-monitoring |
+| 65 | 港美股与数据监控 | ✅ 完成 | +hongkong-us-stocks,data-visualization,monitoring-alerting |
+| 66 | 组合管理与交易 | ✅ 完成 | +portfolio-tracking,rebalancing,trading-integration |
+| 67 | Agent优化与持续改进 | ✅ 完成 | +prompt-engineering,agent-evaluation,continuous-improvement |
 ```
 
 ---

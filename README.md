@@ -377,7 +377,32 @@ description: Use when writing or reviewing PRD documents
 | contract-management | 合同管理 |
 | compliance-management | 合规管理(新增) |
 
-### 16. Common Skills（通用技能）
+### 17. Investment Research Skills（投研技能）
+
+| Skill | 用途 |
+|-------|------|
+| stock-data-collection | 股票数据采集 |
+| financial-statement-analysis | 财务报表分析 |
+| industry-research | 行业研究 |
+| company-valuation | 公司估值 |
+| research-report-generation | 研报生成 |
+| a-share-market-analysis | A股市场分析 |
+| announcement-analysis | 公告解读 |
+| industry-chain-analysis | 产业链分析 |
+| macro-analysis | 宏观分析 |
+| technical-analysis | 技术分析 |
+| peer-comparison | 竞品对比 |
+| portfolio-construction | 组合构建 |
+| value-investment | 价值投资 |
+| growth-investment | 成长投资 |
+| event-driven-investment | 事件驱动 |
+| risk-management | 风险管理 |
+| quantitative-screening | 量化筛选 |
+| backtesting | 回测验证 |
+| langgraph-workflow | LangGraph工作流 |
+| trading-integration | 交易通道集成 |
+
+### 18. Common Skills（通用技能）
 
 | Skill | 用途 |
 |-------|------|
@@ -408,7 +433,7 @@ brainstorming → planning → executing → reviewing → evolving
 
 ### 来自 Everything Claude Code 的借鉴
 - 28 专业 Subagent 系统
-- 242 Skills 覆盖领域
+- 279 Skills 覆盖领域
 - Continuous Learning 持续学习机制
 
 ## 使用方法
