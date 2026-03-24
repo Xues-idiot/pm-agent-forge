@@ -4,7 +4,7 @@
 
 **当前阶段**: 持续扩展中
 **开始日期**: 2026-03-24
-**Skills总数**: 441
+**Skills总数**: 456
 
 ---
 
@@ -66,6 +66,20 @@
 
 - [x] 扩展 Meta Skills (4个)
   - 新增: skills-audit/cross-domain-integration
+
+---
+
+## 第91-100轮
+
+### 完成
+- [x] 扩展概念型Skills（聚焦Marketing/Operations/Customer Service）
+  - Marketing: campaign-design/brand-strategy/marketing-mix/customer-insight/content-strategy
+  - Operations: operations-strategy/user-lifecycle/growth-strategy/activity-operations/operations-analysis
+  - Customer Service: service-strategy/service-process/intelligent-service/service-metrics/complaint-management
+
+- [x] 完善项目文档
+  - WORKFLOW.md更新（新增步骤8版本管理）
+  - SKILL.md格式调整为触发条件/输入/输出/Prompt模板/示例/注意事项
 
 ---
 

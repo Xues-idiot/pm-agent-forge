@@ -433,7 +433,7 @@ brainstorming → planning → executing → reviewing → evolving
 
 ### 来自 Everything Claude Code 的借鉴
 - 28 专业 Subagent 系统
-- 441 Skills 覆盖领域
+- 456 Skills 覆盖领域
 - Continuous Learning 持续学习机制
 
 ## 使用方法
