@@ -920,6 +920,134 @@ description: |
 
 ---
 
+## 期刊论文投稿指南
+
+### 投稿前准备
+
+```markdown
+## 投稿前检查清单
+
+### 文章质量
+- [ ] 创新性明确
+- [ ] 方法严谨
+- [ ] 逻辑清晰
+- [ ] 语言专业
+
+### 格式要求
+- [ ] 符合期刊格式要求
+- [ ] 参考文献格式统一
+- [ ] 图表规范清晰
+
+### 投稿材料
+- [ ] Cover Letter
+- [ ] Manuscript（匿名稿）
+- [ ] Highlights（亮点）
+- [ ] 知情同意书（如需要）
+```
+
+### Cover Letter模板
+
+```markdown
+## Cover Letter模板
+
+Dear Editor-in-Chief,
+
+We would like to submit our manuscript entitled "[论文题目]" for consideration for publication in [期刊名].
+
+[第一段：研究问题] Recently, [研究背景], making [研究问题] increasingly important.
+
+[第二段：研究贡献] Our study makes the following contributions: (1)...; (2)...; (3)...
+
+[第三段：创新性] This is the first study to [具体创新], addressing a gap in the literature.
+
+[第四段：合适性] Given [期刊的范围], we believe this manuscript is suitable for publication in [期刊名].
+
+[第五段：原创声明] This manuscript has not been published elsewhere and is not under consideration by another journal.
+
+Thank you for your consideration.
+
+Best regards,
+[作者姓名]
+[联系方式]
+```
+
+### 期刊选择策略
+
+| 策略 | 适用场景 | 操作方法 |
+|------|---------|---------|
+| 梯队策略 | 时间充裕 | 先投高目标，依次往下 |
+| 匹配策略 | 时间紧张 | 选择与论文水平匹配的期刊 |
+| 快速策略 | 急需发表 | 选择审稿快的期刊 |
+
+### 期刊选择评估指标
+
+| 指标 | 说明 | 优先级 |
+|------|------|-------|
+| 收录数据库 | SCI/SSCI/CSSCI等 | 高 |
+| 影响因子 | 期刊影响力 | 高 |
+| 审稿周期 | 3个月以内为佳 | 中 |
+| 录用率 | 10%-30%为正常 | 中 |
+| 期刊范围 | 是否匹配研究主题 | 高 |
+
+---
+
+## 审稿意见回复技巧
+
+### 回复审稿意见模板
+
+```markdown
+## Response to Reviewers Template
+
+### 通用回复结构
+We thank the reviewer for the valuable comments. We have carefully considered each comment and made corresponding revisions in the manuscript. Our detailed responses are as follows:
+
+### 逐条回复格式
+
+**Reviewer 1:**
+
+Comment 1: [原文引用审稿意见]
+Response: [感谢+理解+做了什么修改]
+Changes: [如有修改，说明在原文位置]
+
+Comment 2: ...
+Response: ...
+Changes: ...
+
+### 回复原则
+1. 礼貌谦逊，感谢审稿人
+2. 逐条回复，不遗漏
+3. 明确标注修改位置
+4. 提供修改前后对比（如需要）
+5. 对于无法修改的，说明理由
+```
+
+### 常见审稿意见回复策略
+
+| 审稿意见类型 | 策略 | 示例回复 |
+|------------|------|---------|
+| 创新性不足 | 强调创新点，或承认局限 | "We acknowledge...and have added..." |
+| 方法不严谨 | 补充方法说明或重新分析 | "We have supplemented..." |
+| 文献不完整 | 补充文献 | "We have added..." |
+| 写作问题 | 修改语言 | "We have revised..." |
+| 要求增加内容 | 尽量满足 | "We have added Section X..." |
+| 质疑结论 | 提供更多证据 | "Based on additional analysis..." |
+
+### 回复审稿意见注意事项
+
+**应该做**：
+- 礼貌专业，不争论
+- 逐条回复，不遗漏
+- 明确修改位置
+- 诚实验证质疑
+
+**不应该做**：
+- 忽略审稿意见
+- 与审稿人争论
+- 过度辩解
+- 直接拒绝修改
+
+---
+
 ## 红牌警告
 
 以下情况属于严重问题，必须立即修正：
