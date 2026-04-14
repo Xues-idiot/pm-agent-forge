@@ -975,6 +975,155 @@ description: |
 | NoteExpress | 付费 | 中文友好 | 中文论文 |
 | Citavi | 付费 | 知识管理强 | 全平台 |
 
+### 数据分析工具
+| 工具 | 类型 | 适用场景 | 学习难度 |
+|------|------|---------|---------|
+| SPSS | 商业软件 | 问卷分析 | 中等 |
+| Stata | 商业软件 | 计量经济 | 中等 |
+| R | 开源 | 统计建模 | 较高 |
+| Python | 开源 | 机器学习/大数据 | 较高 |
+| Excel | 基础 | 描述统计 | 低 |
+| AMOS/Mplus | 结构方程 | SEM分析 | 高 |
+
+### 文献搜索策略
+
+```markdown
+## 文献搜索完整流程
+
+### 第一步：确定搜索词
+1. 核心概念（中英文）
+2. 相关概念（同义词、上位词、下位词）
+3. 研究方法（定性/定量）
+4. 研究情境（行业、地区）
+
+### 第二步：选择数据库
+| 数据库 | 类型 | 适用内容 |
+|-------|------|---------|
+| CNKI | 中文综合 | 中文学术论文 |
+| 万方 | 中文综合 | 中文学术论文 |
+| Web of Science | 英文综合 | 高质量英文文献 |
+| Scopus | 英文综合 | 广泛覆盖 |
+| PubMed | 医学 | 生物医学 |
+| IEEE | 工程技术 | 工程电子 |
+| Google Scholar | 通用 | 广泛搜索 |
+
+### 第三步：构建搜索表达式
+```
+(中小企业 OR 小微企业) AND (数字化 OR 数字化转型)
+AND (组织惰性 OR 组织惯性)
+AND (实证研究 OR 案例研究)
+NOT (政府 OR 政策)
+```
+
+### 第四步：筛选流程
+1. 标题筛选：相关性强
+2. 摘要筛选：方法/结论相关
+3. 全文筛选：详细评估
+
+### 第五步：文献管理
+1. 使用文献管理器导入
+2. 去重检查
+3. 分类标签
+4. 精读笔记
+```
+
+### 数据分析代码模板
+
+#### Python数据分析模板
+
+```python
+# -*- coding: utf-8 -*-
+"""
+论文数据分析模板
+"""
+
+import pandas as pd
+import numpy as np
+from scipy import stats
+import matplotlib.pyplot as plt
+import seaborn as sns
+from scipy.stats import pearsonr, spearmanr
+from sklearn.preprocessing import StandardScaler
+import statsmodels.api as sm
+
+# 设置中文显示
+plt.rcParams['font.sans-serif'] = ['SimHei', 'Arial Unicode MS']
+plt.rcParams['axes.unicode_minus'] = False
+
+# 1. 数据导入
+df = pd.read_excel('data.xlsx')
+
+# 2. 数据清洗
+df = df.dropna()  # 删除缺失值
+df = df[df['age'] >= 18]  # 异常值处理
+
+# 3. 描述性统计
+desc_stats = df[['var1', 'var2', 'var3']].describe()
+print(desc_stats)
+
+# 4. 信度分析（Cronbach's α）
+def cronbach_alpha(df):
+    """计算Cronbach's α系数"""
+    items = df.shape[1]
+    var_sum = df.var(axis=0, ddof=1).sum()
+    total_var = df.sum(axis=1).var(ddof=1)
+    return (items / (items-1)) * (1 - var_sum/total_var)
+
+alpha = cronbach_alpha(df[['item1', 'item2', 'item3']])
+print(f"Cronbach's α = {alpha:.3f}")
+
+# 5. 相关分析
+corr, p_value = pearsonr(df['var1'], df['var2'])
+print(f"Pearson r = {corr:.3f}, p = {p_value:.3f}")
+
+# 6. 回归分析
+X = sm.add_constant(df[['var1', 'var2']])
+y = df['outcome']
+model = sm.OLS(y, X).fit()
+print(model.summary())
+
+# 7. 中介效应检验（Bootstrap）
+# 使用 Hayes 的 Process 宏或手动Bootstrap
+
+# 8. 图表导出
+plt.savefig('figure1.png', dpi=300, bbox_inches='tight')
+```
+
+#### SPSS操作指南
+
+```markdown
+## SPSS分析流程
+
+### 1. 数据导入
+File → Open → Data → 选择文件格式
+
+### 2. 描述性统计
+Analyze → Descriptive Statistics → Frequencies/Descriptives
+- 勾选：Mean, Std. deviation, Variance, Range
+
+### 3. 信度分析
+Analyze → Scale → Reliability Analysis
+- Model: Alpha
+- Items: 选入所有题项
+- Statistics: 勾选 Item, Scale, Scale if item deleted
+
+### 4. 效度分析（KMO和Bartlett）
+Analyze → Dimension Reduction → Factor
+- Descriptives: 勾选 KMO and Bartlett's test of sphericity
+- Extraction: Principal components
+- Rotation: Varimax
+
+### 5. 相关分析
+Analyze → Correlate → Bivariate
+- Pearson/Spearman相关系数
+
+### 6. 回归分析
+Analyze → Regression → Linear
+- Dependent: 因变量
+- Independent(s): 自变量
+- Statistics: 勾选 R squared change, F change, Coefficients
+```
+
 ### 写作辅助工具
 | 工具 | 功能 | 适用场景 |
 |------|------|---------|
